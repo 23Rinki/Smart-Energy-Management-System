@@ -122,4 +122,7 @@ This website is a tool for managing and monitoring smart devices (e.g., plugs), 
 3. Make your changes and commit them.
 4. Push your changes and create a pull request.
 
+   Frontend Developer: Nehil Sinha
+   Backend Developer: Rinkee Verma
+
 ---
